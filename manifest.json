@@ -6,14 +6,13 @@
     "description": "Sets button in toolbar.",
     "homepage_url": "https://github.com/GiovanniCornejo/VideoSubtitleGenerator",
     "icons": {
-      "48": "icons/wrap-text.svg",
-      "96": "icons/wrap-text.svg"
+      "48": "icons/wrap-text-32.svg"
     },
   
     "permissions": ["activeTab"],
   
     "browser_action": {
-      "default_icon": "icons/wrap-text.svg",
+      "default_icon": "icons/wrap-text-32.svg",
       "default_title": "VideoSubtitleGenerator",
       "default_popup": "popup/popup.html"
     }
