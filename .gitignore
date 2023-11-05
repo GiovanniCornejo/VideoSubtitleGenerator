@@ -1,3 +1,7 @@
+# Virtual environment
+subenv
+docs/goals.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
