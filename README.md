@@ -1,5 +1,5 @@
 # VideoSubtitleGenerator
-
+![firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Description
 
 VideoSubtitleGenerator is an open-source project for video analysis and automatic subtitle generation for YouTube videos. Unlike some other browsers, Firefox does not have support for this feature, so we are developing a web extension to fill that gap. Our extension will make it easy for users to generate and display subtitles for videos on the YouTube platform.
