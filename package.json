@@ -1,0 +1,24 @@
+{
+    "name": "videosubtitlegenerator",
+    "version": "0.0.0",
+    "description": "A tool that analyzes YouTube videos and generates subtitles to enhance accessibility",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "format": "npx prettier --write ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "VideoSubtitleGenerator"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "husky": "^8.0.3",
+        "pretty-quick": "^3.1.3"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "pretty-quick --staged"
+        }
+    }
+}
