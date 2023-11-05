@@ -1,0 +1,33 @@
+html,
+body {
+  width: 100px;
+  background-color: #d6cdc3
+}
+
+.hidden {
+  display: none;
+}
+
+button {
+  border-radius: 15%;
+  width: 100%;
+  margin: 6% auto;
+  padding: 3px 5px;
+  text-align: center;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #4281A4;
+}
+
+.fade {
+  background-color: #4281A4;
+  border-color: #4281A4;
+  color: white;
+  transition: background-color 0.5s;
+}
+
+.fade:hover {
+  background-color: #48A9A6;
+  border-color:#48A9A6;
+}
+
