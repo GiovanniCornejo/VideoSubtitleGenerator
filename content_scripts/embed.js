@@ -1,7 +1,10 @@
 /**
- * Simple test to add a new button in the video embed
+ * Creates subtitle button in YouTube embed and handles subtitles display
  */
 
+/**
+ * Simple test to add a new button in the video embed
+ */
 var newBtn = document.createElement('button');
 newBtn.textContent = 'TEST';
 newBtn.classList.add("ytp-subtitles-button", "ytp-button");
