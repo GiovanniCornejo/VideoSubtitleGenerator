@@ -19,10 +19,6 @@ VideoSubtitleGenerator is an open-source project for video analysis and automati
 
 For detailed usage instructions and tips on how to use the tool, please refer to the [User Guide](./docs/user-guide.md).
 
-## Contributing
-
-We welcome contributions to this project. If you'd like to get involved, please refer to our [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is open-source and available under the [MIT License](./LICENSE).
