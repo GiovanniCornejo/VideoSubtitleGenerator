@@ -1,2 +1,0 @@
-// for browser injection
-  
